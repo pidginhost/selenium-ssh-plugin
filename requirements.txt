@@ -1,0 +1,9 @@
+pytest
+selenium
+webdriver-manager
+softest
+openpyxl
+ddt
+pytest-html
+bs4
+paramiko

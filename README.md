@@ -1,11 +1,12 @@
 # PidginHost Selenium Testing Plugin with SSH tests
 
-<p align="left" width="100%">
-<img src="ph+s+ssh.png"
-     alt="PidginHost + Selenium + SSH"
-     title="PidginHost + Selenium + SSH"
-     height=300>
-</p>
+<div class="image-container">
+  <p align="center">
+    <img src="ph+s+ssh.png"
+         alt="PidginHost + Selenium + SSH"
+         title="PidginHost + Selenium + SSH">
+  </p>
+</div>
 
 This repository includes tests for evaluating the functionality of [PidginHost Cloud](https://www.pidginhost.com/panel/cloud/), along with SSH tests.
 
@@ -113,3 +114,16 @@ Supported Browser Versions:
 
 > [!NOTE]
 > The plugin will generate an HTML report for all tests in [report.html](report.html) and an automation log in [automation.log](automation.log).
+
+<style>
+.image-container {
+  max-width: 100%;
+  height: auto;
+}
+
+@media screen and (max-width: 600px) {
+  .image-container img {
+    width: 100%;
+  }
+}
+</style>

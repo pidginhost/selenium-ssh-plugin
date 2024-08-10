@@ -114,16 +114,3 @@ Supported Browser Versions:
 
 > [!NOTE]
 > The plugin will generate an HTML report for all tests in [report.html](report.html) and an automation log in [automation.log](automation.log).
-
-<style>
-.image-container {
-  max-width: 100%;
-  height: auto;
-}
-
-@media screen and (max-width: 600px) {
-  .image-container img {
-    width: 100%;
-  }
-}
-</style>

@@ -1,4 +1,5 @@
 pytest
+#pytest-xdist
 selenium
 webdriver-manager
 softest
